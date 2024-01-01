@@ -116,6 +116,9 @@ https://docs.python.org/release/3.12.0/
 
 
 ### 7. MLOPS (Machine Learning Operation)
+[MLOps-Engineering-in-Action](https://github.com/ashishpatel26/MLOps-Engineering-in-Action/tree/main)
+[notebooks](https://github.com/ashishpatel26/MLOps-Engineering-in-Action/tree/main/notebooks)
+
 ![image](https://github.com/krishnaik06/Perfect-Roadmap-To-Learn-Data-Science-In-2024/assets/20041231/9eca24f9-b684-4eba-af96-b107f774d19e)
 1. Github Action CI/CD pipelines [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/features/actions) [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=p7V4Aa7qEpw&list=PLZoTAELRMXVOjQdyqlCmOtq1nZnSsWvag&index=3)
 2. Circle CI [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://circleci.com/docs/)
