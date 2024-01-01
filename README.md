@@ -101,6 +101,7 @@ https://docs.python.org/release/3.12.0/
 [Interview Preparation-Xgboost,GBboost,Adaboost--Boosting.ipynb](https://github.com/krishnaik06/Interview-Prepartion-Data-Science/blob/master/Interview%20Preparation-Xgboost%2CGBboost%2CAdaboost--Boosting.ipynb)
 [Machine-Learning-Algorithms-Materials](https://github.com/krishnaik06/Machine-Learning-Algorithms-Materials)
 [RegressionandLasso ](https://github.com/krishnaik06/RegressionandLasso)
+[Time-Series](https://github.com/krishnaik06/Live-Time-Series)
 ### 5. Deep Learning Playlist:
 [Complete Deep Learning](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/tree/main/Complete%20Deep%20Learning)
 [Complete Deep Learning/Practicals](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/tree/main/Complete%20Deep%20Learning/Practicals)
