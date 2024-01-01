@@ -79,7 +79,7 @@ https://docs.python.org/release/3.12.0/
 1. Live ML Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=z8sxaUw_f-M&list=PLZoTAELRMXVPjaAzURB77Kz0YXxj65tYz)
 2. Complete ML Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe)
 3. Hindi: ML Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=7uwa9aPbBRU&list=PLTDARY42LDV7WGmlzZtY-w9pemyPrKNUZ)
-[Types Of ML Techniques](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/tree/main/Machine%20Learning/Types%20Of%20ML%20Techniques)
+[![Types Of ML Techniques](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/tree/main/Machine%20Learning/Types%20Of%20ML%20Techniques)]
 [Complete Linear Regression](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/tree/main/Machine%20Learning/2-Complete%20Linear%20Regression)
 [Ridge Lasso And Elasticnet](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/tree/main/Machine%20Learning/3-%20Ridge%20Lasso%20And%20Elasticnet)
 [Logisitics Regression](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/tree/main/Machine%20Learning/4-Logisitics%20Regression)
