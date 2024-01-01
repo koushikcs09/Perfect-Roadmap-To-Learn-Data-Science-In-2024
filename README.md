@@ -11,12 +11,21 @@
 [Python DSA Interviews](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/blob/main/Python/Python%20DSA%20Interviews.md)
 [Python Ussecases Interview Based Questions](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/blob/main/Python/Python%20Interview%20Usecases.md)
 [Python Interview practise questions](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/blob/main/Python/Python%20Interview%20practise%20questions.md)
+[Section 1- Python Crash Course](https://github.com/krishnaik06/Machine-Learning-in-90-days/tree/master/Section%201-%20Python%20Crash%20Course)
+[Python Progamming (1).pdf](https://github.com/krishnaik06/Python-Practise-Problems/blob/main/Python%20Progamming%20(1).pdf)
 1. Complete Python Playlist In English: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVNUL99R4bDlVYsncUNvwUBB)
 
 2. Complete Python Playlist In Hindi:   [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=MJd9d9Mpxg0&list=PLTDARY42LDV4qqiJd1Z1tShm3mp9-rP4v)
 
 3. Flask Playlist:    [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=4L_xAWDRs7w&list=PLZoTAELRMXVPBaLN3e-uoVRR9hlRFRfUc)
-
+[Pyspark-With-Python](https://github.com/krishnaik06/Pyspark-With-Python)
+[Tutorial 2- PySpark DataFrames- Part 1.ipynb](https://github.com/krishnaik06/Pyspark-With-Python/blob/main/Tutorial%202-%20PySpark%20DataFrames-%20Part%201.ipynb)
+[Tutorial 3- Pyspark Dataframe- Handling Missing Values.ipynb](https://github.com/krishnaik06/Pyspark-With-Python/blob/main/Tutorial%203-%20Pyspark%20Dataframe-%20Handling%20Missing%20Values.ipynb)
+[Tutorial 4- Pyspark Dataframes- Filter operation.ipynb](https://github.com/krishnaik06/Pyspark-With-Python/blob/main/Tutorial%204-%20Pyspark%20Dataframes-%20Filter%20operation.ipynb)
+[Tutorial 5- Pyspark With Python-GroupBy And Aggregate Functions.ipynb](https://github.com/krishnaik06/Pyspark-With-Python/blob/main/Tutorial%205-%20Pyspark%20With%20Python-GroupBy%20And%20Aggregate%20Functions.ipynb)
+[Tutorial 6-Example Of Pyspark ML.ipynb](https://github.com/krishnaik06/Pyspark-With-Python/blob/main/Tutorial%206-Example%20Of%20Pyspark%20ML.ipynb)
+[Tutorial 8-Linear Regression With Pyspark.ipynb](https://github.com/krishnaik06/Pyspark-With-Python/blob/main/Tutorial%208-Linear%20Regression%20With%20Pyspark.ipynb)
+[pyspark basic introduction.ipynb](https://github.com/krishnaik06/Pyspark-With-Python/blob/main/pyspark%20basic%20introduction.ipynb)
 ### Final Goal Outcome:
 1. Basic To Intermediate Python With various knowledge of various Data structures like numpy,pandas,matplotlib and many more.
 2. Knowledge of performing EDA,Feature Engineering and creating visualization charts using python 
@@ -35,12 +44,16 @@ https://docs.python.org/release/3.12.0/
 3. Stats Hindi Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=7y3XckjaVOw&list=PLTDARY42LDV6YHSRo669_uDDGmUEmQnDJ)
 
 ### EDA
+
+[EDA.ipynb](https://github.com/krishnaik06/EDA1/blob/master/EDA.ipynb)
 1. EDA Live :[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/playlist?list=PLZoTAELRMXVPzj1D0i_6ajJ6gyD22b3jh)
 
 2. EDA Detailed Playlist:[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=ioN1jcWxbv8&list=PLZoTAELRMXVPQyArDHyQVjQxjj_YmEuO9)
 
 ### Feature Engineering
-
+[Feature-Engineering](https://github.com/krishnaik06/Feature-Engineering-Live-sessions)
+[Feature-Selection-techniques ](https://github.com/krishnaik06/Feature-Selection-techniques)
+[Complete-Feature-Selection](https://github.com/krishnaik06/Complete-Feature-Selection)
 1. Complete Detailed Feature Engineering: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=6WDFfaYtN6s&list=PLZoTAELRMXVPwYGE2PXD3x0bfKnR0cJjN)
 
 2. Live EDA Feature Engineering Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=bTN-6VPe8c0&list=PLZoTAELRMXVPzj1D0i_6ajJ6gyD22b3jh)
@@ -50,6 +63,8 @@ https://docs.python.org/release/3.12.0/
 2. Familiar with all concepts which will be important for Machine Learning
 
 ## 3. Databases
+[sql interview.docx](https://github.com/krishnaik06/Python-Practise-Problems/blob/main/sql%20interview.docx)
+
 1. Mongodb: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=magzEfYqIos&list=PLZoTAELRMXVN_8zzsevm1bm6G-plsiO1I)
 
 2. Mysql: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=us1XyayQ6fU&list=PLZoTAELRMXVNMRWlVf0bDDSxNEn38u9Cl)
@@ -77,7 +92,15 @@ https://docs.python.org/release/3.12.0/
 [Machine Learning/10-Xgboost](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/tree/main/Machine%20Learning/10-Xgboost)
 [Machine Learning/11-PCA](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/tree/main/Machine%20Learning/11-PCA)
 [Machine Learning/12- Unsupervised ML](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/tree/main/Machine%20Learning/12-%20Unsupervised%20ML)
-
+[ Interview-Prepartion-Data-Science](https://github.com/krishnaik06/Interview-Prepartion-Data-Science)
+[Interview Preparation- Day 2- Linear Regression.ipynb](https://github.com/krishnaik06/Interview-Prepartion-Data-Science/blob/master/Interview%20Preparation-%20Day%202-%20Linear%20Regression.ipynb)
+[Interview Preparation- Day 3-SVM.ipynb](https://github.com/krishnaik06/Interview-Prepartion-Data-Science/blob/master/Interview%20Preparation-%20Day%203-SVM.ipynb)
+[Interview Preparation- Day 4- Decision Trees.ipynb](https://github.com/krishnaik06/Interview-Prepartion-Data-Science/blob/master/Interview%20Preparation-%20Day%204-%20Decision%20Trees.ipynb)
+[Interview Preparation- Day 5-Logistic Regression.ipynb](https://github.com/krishnaik06/Interview-Prepartion-Data-Science/blob/master/Interview%20Preparation-%20Day%205-Logistic%20Regression.ipynb)
+[Interview Preparation-Random Forest-Bagging.ipynb](https://github.com/krishnaik06/Interview-Prepartion-Data-Science/blob/master/Interview%20Preparation-Random%20Forest-Bagging.ipynb)
+[Interview Preparation-Xgboost,GBboost,Adaboost--Boosting.ipynb](https://github.com/krishnaik06/Interview-Prepartion-Data-Science/blob/master/Interview%20Preparation-Xgboost%2CGBboost%2CAdaboost--Boosting.ipynb)
+[Machine-Learning-Algorithms-Materials](https://github.com/krishnaik06/Machine-Learning-Algorithms-Materials)
+[RegressionandLasso ](https://github.com/krishnaik06/RegressionandLasso)
 ### 5. Deep Learning Playlist:
 [Complete Deep Learning](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/tree/main/Complete%20Deep%20Learning)
 [Complete Deep Learning/Practicals](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/tree/main/Complete%20Deep%20Learning/Practicals)
