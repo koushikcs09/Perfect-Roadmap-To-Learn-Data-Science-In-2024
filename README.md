@@ -10,7 +10,7 @@
 ![python-logo-master-v3-TM-flattened](https://user-images.githubusercontent.com/20041231/211717885-0b1e049b-f5b3-457d-ba7a-9345ec3aa39c.png)
 [Python DSA Interviews](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/blob/main/Python/Python%20DSA%20Interviews.md)
 [Python Ussecases Interview Based Questions](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/blob/main/Python/Python%20Interview%20Usecases.md)
-[Python DSA Interviews](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/blob/main/Python/Python%20DSA%20Interviews.md)
+[Python Interview practise questions](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/blob/main/Python/Python%20Interview%20practise%20questions.md)
 1. Complete Python Playlist In English: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVNUL99R4bDlVYsncUNvwUBB)
 
 2. Complete Python Playlist In Hindi:   [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=MJd9d9Mpxg0&list=PLTDARY42LDV4qqiJd1Z1tShm3mp9-rP4v)
@@ -27,7 +27,7 @@ https://docs.python.org/release/3.12.0/
 
 ## 2. Statistics
 ![1_jidbi1--elimaTb3B2HT5w](https://user-images.githubusercontent.com/20041231/211717931-134aaac2-a8fc-445b-93a6-ae241c66ba5b.png)
-
+[Complete Statistics](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/tree/main/Complete%20Statistics)
 1. English: 7 Days Statistics Live Session : [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=11unm2hmvOQ&list=PLZoTAELRMXVMgtxAboeAx-D9qbnY94Yay)
 
 2. Statistics in ML(43 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=zRUliXuwJCQ&list=PLZoTAELRMXVMhVyr3Ri9IQ-t5QPBtxzJO)
@@ -53,24 +53,59 @@ https://docs.python.org/release/3.12.0/
 1. Mongodb: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=magzEfYqIos&list=PLZoTAELRMXVN_8zzsevm1bm6G-plsiO1I)
 
 2. Mysql: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=us1XyayQ6fU&list=PLZoTAELRMXVNMRWlVf0bDDSxNEn38u9Cl)
-3. Apache Cassandra Database: [![YouTube](https://img.shields.io/badge/documentaion-link-green)](https://cassandra.apache.org/_/index.html )
+[Complete MySQL Interview Materials](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/tree/main/Complete%20MySQL%20Interview%20Materials)
+[Complete SQL Basics To Advance Guide.pdf](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/blob/main/Complete%20MySQL%20Interview%20Materials/Complete%20SQL%20Basics%20To%20Advance%20Guide.pdf)
+[Complex SQL Interview Questions- Part 2.md](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/blob/main/Complete%20MySQL%20Interview%20Materials/Complex%20SQL%20Interview%20Questions-%20Part%202.md)
+[Complete MySQL Interview Materials/Amazing MySQL Interview Preparation.md](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/blob/main/Complete%20MySQL%20Interview%20Materials/Amazing%20MySQL%20Interview%20Preparation.md)
+[Complete MySQL Interview Materials/Advanced My SQL Queries.md](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/blob/main/Complete%20MySQL%20Interview%20Materials/Advanced%20My%20SQL%20Queries.md)
+4. Apache Cassandra Database: [![YouTube](https://img.shields.io/badge/documentaion-link-green)](https://cassandra.apache.org/_/index.html )
 
 ### 4. Machine Learning
 1. Live ML Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=z8sxaUw_f-M&list=PLZoTAELRMXVPjaAzURB77Kz0YXxj65tYz)
 2. Complete ML Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe)
 3. Hindi: ML Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=7uwa9aPbBRU&list=PLTDARY42LDV7WGmlzZtY-w9pemyPrKNUZ)
+[Types Of ML Techniques](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/tree/main/Machine%20Learning/Types%20Of%20ML%20Techniques)
+[Complete Linear Regression](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/tree/main/Machine%20Learning/2-Complete%20Linear%20Regression)
+[Ridge Lasso And Elasticnet](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/tree/main/Machine%20Learning/3-%20Ridge%20Lasso%20And%20Elasticnet)
+[Logisitics Regression](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/tree/main/Machine%20Learning/4-Logisitics%20Regression)
+[Machine Learning/5- SVM](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/tree/main/Machine%20Learning/5-%20SVM)
+[Machine Learning/6-Naive Baye's](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/tree/main/Machine%20Learning/6-Naive%20Baye's)
+[Machine Learning/7-Decision Tree](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/tree/main/Machine%20Learning/7-Decision%20Tree)
+[Machine Learning/8-Random Forest](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/tree/main/Machine%20Learning/8-Random%20Forest)
+[Machine Learning/9-Adaboost](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/tree/main/Machine%20Learning/9-Adaboost)
+[Machine Learning/10-Gradient Boosting](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/tree/main/Machine%20Learning/10-Gradient%20Boosting)
+[Machine Learning/10-Xgboost](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/tree/main/Machine%20Learning/10-Xgboost)
+[Machine Learning/11-PCA](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/tree/main/Machine%20Learning/11-PCA)
+[Machine Learning/12- Unsupervised ML](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/tree/main/Machine%20Learning/12-%20Unsupervised%20ML)
 
 ### 5. Deep Learning Playlist:
+[Complete Deep Learning](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/tree/main/Complete%20Deep%20Learning)
+[Complete Deep Learning/Practicals](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/tree/main/Complete%20Deep%20Learning/Practicals)
+[Complete Deep Learning/Practicals/Activation Functions](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/tree/main/Complete%20Deep%20Learning/Practicals/Activation%20Functions)
+[1-4 Deep learnng.pdf](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/blob/main/Complete%20Deep%20Learning/1-4%20Deep%20learnng.pdf)
+[16-19 Loss Functions.pdf](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/blob/main/Complete%20Deep%20Learning/16-19%20Loss%20Functions.pdf)
+[20-24 Optimizers.pdf](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/blob/main/Complete%20Deep%20Learning/20-24%20Optimizers.pdf)
+[20-26 Optimizers.pdf](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/blob/main/Complete%20Deep%20Learning/20-26%20Optimizers.pdf)
+[27-8 Weight initialization Techniques.pdf](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/blob/main/Complete%20Deep%20Learning/27-8%20Weight%20initialization%20Techniques.pdf)
+[29-Dropout Layer.pdf](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/blob/main/Complete%20Deep%20Learning/29-Dropout%20Layer.pdf)
+[30-33 CNN.pdf](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/blob/main/Complete%20Deep%20Learning/30-33%20CNN.pdf)
+[30-38 CNN.pdf](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/blob/main/Complete%20Deep%20Learning/30-38%20CNN.pdf)
+[5-8 Deep LEarning.pdf](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/blob/main/Complete%20Deep%20Learning/5-8%20Deep%20LEarning.pdf)
+[8-15 Activation functions.pdf](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/blob/main/Complete%20Deep%20Learning/8-15%20Activation%20functions.pdf)
 1. 5 Days Live Deep Learning Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=8arGWdq_KL0&list=PLZoTAELRMXVPiyueAqA_eQnsycC_DSBns)
 
 2. Complete Deep Learning Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=YFNKnUhm_-s&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi)
 3. Deep Learning Playlist In Hindi: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=SlbbvhO3jKY&list=PLTDARY42LDV4Ic6ZPHIh_CdlPwkKDJmpk)
 
 ### 6. NLP Playlist:
+[Complete NLP For ML & Deep Learning](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/tree/main/Complete%20NLP%20For%20ML%20%26%20Deep%20Learning)
+[Complete NLP For ML & Deep Learning/Practicals](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/tree/main/Complete%20NLP%20For%20ML%20%26%20Deep%20Learning/Practicals)
+
 1. English: Live NLP Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=w3coRFpyddQ&list=PLZoTAELRMXVNNrHSKv36Lr3_156yCo6Nn)
 
 2. Complete NLP Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=fM4qTMfCoak&list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm)
-
+[Dockers](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/tree/main/Dockers)
+[Github And Git](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/tree/main/Github%20And%20Git)
 ## Important Frameworks for Production Deployments
 
 - Flask Detailed Playlist In English:[![YouTube](https://img.shields.io/badge/documentaion-link-green)](https://www.youtube.com/watch?v=4L_xAWDRs7w&list=PLZoTAELRMXVPBaLN3e-uoVRR9hlRFRfUc)
