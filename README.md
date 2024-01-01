@@ -9,6 +9,8 @@
 #### Python:
 ![python-logo-master-v3-TM-flattened](https://user-images.githubusercontent.com/20041231/211717885-0b1e049b-f5b3-457d-ba7a-9345ec3aa39c.png)
 [Python DSA Interviews](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/blob/main/Python/Python%20DSA%20Interviews.md)
+[Python Ussecases Interview Based Questions](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/blob/main/Python/Python%20Interview%20Usecases.md)
+[Python DSA Interviews](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/blob/main/Python/Python%20DSA%20Interviews.md)
 1. Complete Python Playlist In English: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVNUL99R4bDlVYsncUNvwUBB)
 
 2. Complete Python Playlist In Hindi:   [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=MJd9d9Mpxg0&list=PLTDARY42LDV4qqiJd1Z1tShm3mp9-rP4v)
